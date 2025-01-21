@@ -1,2 +1,2 @@
-# ITMO-physics-2024-2025
-here are the physics labs
+# ITMO-is27
+here are the concpect
